@@ -7,4 +7,4 @@ Let me know of any bugs, other than occasional crashing.
 
 <b> INSTALL WITH Sandwich-Hoop/strategy/SETUPPOLITIC.msi </b>
 
-Game is found in C:\programfiles(x86)\Sandwich Hoop\SETUPPOLITIC
+Game is found in C:\programfiles(x86)\Sandwich Hoop\SETUPPOLITIC as SFML_Furry.exe (leftover name, just ignore)
